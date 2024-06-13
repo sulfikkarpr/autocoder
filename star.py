@@ -1,0 +1,2 @@
+Error: Forbidden. Your API token might not have access to this model.
+Details: {"error":"The model bigcode/starcoder2-15b-instruct-v0.1 is too large to be loaded automatically (31GB > 10GB). Please use Spaces (https://huggingface.co/spaces) or Inference Endpoints (https://huggingface.co/inference-endpoints)."}
